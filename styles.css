@@ -1,0 +1,20 @@
+html * {
+    font-family: "Courier New",serif !important;
+    vertical-align: middle;
+}
+
+input, button, label {
+    margin: 0 2px 2px 0;
+}
+
+label {
+    display: inline-block;
+}
+
+#a, #b {
+    width: 270px;
+}
+
+#c {
+    width: 70px;
+}
